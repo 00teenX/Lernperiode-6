@@ -9,12 +9,21 @@
 
 ## 16.8.2024
 
-- [ ] Modul 320 Auftrag 4202
-- [ ] Modul 320 Auftrag 4203
+- [x] Modul 320 Auftrag 4202
+- [x] Modul 320 Auftrag 4203
 - [ ] Modul 320 Auftrag 4204
 
 ## 23.8.2024
 
-- [ ] Modul 320 Auftrag 4205
-- [ ] Modul 320 Auftrag 4206
+- [x] Modul 320 Auftrag 4205
+- [x] Modul 320 Auftrag 4206
 - [ ] Modul 320 Auftrag 4207
+
+Heute habe ich die Aufträge 4205 und 4206 vom Modul 320 gemacht. Es lief gut, aber ich habs nicht geschafft Auftrag 4207 fertig zu machen, da wir ein bisschen früher los mussten für die 
+Repetitionsprüfung Sfrw in Aarau. Ich bin aber zufrieden mit meiner Arbeit und freue mich auf nächste Woche.
+
+## 30.8.2024
+
+- [ ] Modul 320 Auftrag 4207
+- [ ] Modul 320 Auftrag 4208
+- [ ] Modul 320 Auftrag 4209
