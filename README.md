@@ -28,3 +28,9 @@ Repetitionsprüfung Sfrw in Aarau. Ich bin aber zufrieden mit meiner Arbeit und 
 - [x] Modul 231 Auftrag 1710
 
 Heute habe ich den Auftrag 4209 vom Modul 320 gemacht. Das ist der Promillerechner. Ich hatte ziemlich Schwierigkeiten am anfang und wusste nicht wie weiter. Mit der Hilfe von einem Schulkameraden habe ich es dann geschafft in den Flow zu kommen und Fortschritte zu machen. Schlussendlich habe ich es geschafft und ich bin zufrieden mit meiner Arbeit. Ich habe danach den Auftrag 1710 gemacht aus dem Modul 1710.
+
+## 06.9.2024
+
+- [ ] Modul 231 Auftrag 1711
+- [ ] Modul 231 Auftrag 1712
+- [ ] Modul 231 Auftrag 1713
