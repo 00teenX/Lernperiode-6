@@ -20,17 +20,26 @@
 - [ ] Modul 320 Auftrag 4207
 
 Heute habe ich die Aufträge 4205 und 4206 vom Modul 320 gemacht. Es lief gut, aber ich habs nicht geschafft Auftrag 4207 fertig zu machen, da wir ein bisschen früher los mussten für die 
-Repetitionsprüfung Sfrw in Aarau. Ich bin aber zufrieden mit meiner Arbeit und freue mich auf nächste Woche.
+Repetitionsprüfung Sfrw in Aarau. Ich bin aber zufrieden mit meiner Arbeit und freue mich auf nächste Woche. {54 Wörter}
 
 ## 30.8.2024
 
 - [x] Modul 320 Auftrag 4209
 - [x] Modul 231 Auftrag 1710
 
-Heute habe ich den Auftrag 4209 vom Modul 320 gemacht. Das ist der Promillerechner. Ich hatte ziemlich Schwierigkeiten am anfang und wusste nicht wie weiter. Mit der Hilfe von einem Schulkameraden habe ich es dann geschafft in den Flow zu kommen und Fortschritte zu machen. Schlussendlich habe ich es geschafft und ich bin zufrieden mit meiner Arbeit. Ich habe danach den Auftrag 1710 gemacht aus dem Modul 1710.
+Heute habe ich den Auftrag 4209 vom Modul 320 gemacht. Das ist der Promillerechner. Ich hatte ziemlich Schwierigkeiten am anfang und wusste nicht wie weiter. Mit der Hilfe von einem Schulkameraden habe ich es dann geschafft in den Flow zu kommen und Fortschritte zu machen. Schlussendlich habe ich es geschafft und ich bin zufrieden mit meiner Arbeit. Ich habe danach den Auftrag 1710 gemacht aus dem Modul 1710. {68 Wörter}
 
 ## 06.9.2024
 
-- [ ] Modul 231 Auftrag 1711
-- [ ] Modul 231 Auftrag 1712
-- [ ] Modul 231 Auftrag 1713
+- [x] Modul 231 Auftrag 1711
+- [x] Modul 231 Auftrag 1712
+- [x] Modul 231 Auftrag 1713
+- [x] Modul 231 Auftrag 1714
+
+Heute habe ich die Aufträge 1711, 1712, 1713 und weil ich noch Zeit hatte 1714 gemacht. Es lief alles sehr gut und ich hatte sogar noch Zeit für einen weiteren Auftrag, deswegen habe ich ein Arbeitspaket hinzugefügt. Ich bin zufrieden mit meiner Arbeit und ich freue mich auf nächste Woche. {56 Wörter}
+
+## 13.9.2024
+
+- [ ] Modul 231 Auftrag 1715
+- [ ] Modul 231 Auftrag 1716
+- [ ] Modul 231 Auftrag 1717
