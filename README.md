@@ -40,6 +40,14 @@ Heute habe ich die Aufträge 1711, 1712, 1713 und weil ich noch Zeit hatte 1714 
 
 ## 13.9.2024
 
-- [ ] Modul 231 Auftrag 1715
-- [ ] Modul 231 Auftrag 1716
-- [ ] Modul 231 Auftrag 1717
+- [x] Modul 231 Auftrag 1715
+- [x] Modul 231 Auftrag 1716
+- [x] Modul 231 Auftrag 1717
+
+Heute habe ich die Aufträge 1715, 1716 und 1717 bearbeitet. Alles lief reibungslos und ich konnte die Aufgaben zügig abschließen. Ich bin mit dem Ergebnis sehr zufrieden und habe wieder gut Fortschritte gemacht. Die Arbeitswoche verlief nach Plan, und ich freue mich darauf, die kommenden Aufträge ebenso erfolgreich zu erledigen. {50 Wörter}
+
+## 20.9.2024
+
+- [ ] LB Webseite Modul 322
+- [ ] Home Page
+- [ ] Über uns Page
