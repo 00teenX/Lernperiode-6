@@ -48,6 +48,15 @@ Heute habe ich die Aufträge 1715, 1716 und 1717 bearbeitet. Alles lief reibungs
 
 ## 20.9.2024
 
-- [ ] LB Webseite Modul 322
-- [ ] Home Page
-- [ ] Über uns Page
+- [x] LB Webseite Modul 322 weiter arbeiten
+- [x] Home Page
+- [x] Über uns Page
+
+Heute haben wir im LB vom Modul 322 weitergearbeitet. Zuerst haben wir mit der “Homepage” begonnen und die Zutaten sowie Rezepte recherchiert, die man damit erstellen kann. Wir haben die Checkboxen, den Header, den Footer, den Navigationsbereich und einen “Anzeigen”-Button erstellt. Unsere Webseite ist ein interaktives Rezeptbuch, bei dem man die Zutaten selbst auswählen kann, und je nachdem, was man auswählt, werden Rezepte vorgeschlagen.
+
+Als Nächstes haben wir mit der “Über uns”-Seite begonnen. Den Navigationsbereich haben wir einfach übernommen. Danach haben wir Informationen über uns und zur Seite geschrieben. Es lief alles gut, und wir sind sehr gut vorangekommen. Ich denke, wir werden eine tolle Webseite erstellen. {158 Wörter}
+
+## 18.10.2024
+
+- [ ] Kontakt Seite
+- [ ] Verfeinerungen des Designs
